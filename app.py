@@ -12,7 +12,7 @@ try:
     df['timestamp'] = pd.to_datetime(df['timestamp'])
 
     # Streamlit app
-    st.title("Customer Support Ticket Prioritization Dashboard")
+    st.title("Customer Support Ticket Prioritization Dashboard - Keerthi Vasan")
     st.write("Analyze and prioritize customer support tickets by urgency and category.")
 
     # Filters

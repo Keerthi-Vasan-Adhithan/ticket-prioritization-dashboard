@@ -3,7 +3,7 @@
 A Streamlit dashboard to prioritize customer support tickets using sentiment analysis and keyword-based prioritization, built by Kevin for IT portfolio.
 
 ## Overview
-- **Purpose**: Analyzes customer support tickets (700 entries) to prioritize them as High, Medium, or Low based on urgency keywords (e.g., "urgent," "crash") and sentiment analysis using TextBlob.
+- **Purpose**: Analyzes customer support tickets to prioritize them as High, Medium, or Low based on urgency keywords (e.g., "urgent," "crash") and sentiment analysis using TextBlob.
 - **Tech Stack**: Python 3.12.4, Pandas, TextBlob, Streamlit, Plotly, WordCloud, SQLite.
 - **Features**:
   - Pie chart: Priority distribution 

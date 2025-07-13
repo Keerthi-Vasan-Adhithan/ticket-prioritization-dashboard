@@ -1,0 +1,701 @@
+ticket_id,description,timestamp,category,sentiment,sentiment_label,priority
+1,software crashed urgent help needed,2025-07-01 09:00:00,Software,0.0,neutral,High
+2,password reset needed,2025-07-01 10:15:00,Account,0.0,neutral,Low
+3,server down critical issue,2025-07-01 11:30:00,Server,-0.07777777777777778,negative,High
+4,need help with login,2025-07-02 08:45:00,Account,0.0,neutral,Medium
+5,app not working error 404,2025-07-02 12:00:00,Software,0.0,neutral,High
+6,billing issue please resolve,2025-07-02 14:20:00,Billing,0.0,neutral,Medium
+7,urgent database access denied,2025-07-03 09:10:00,Database,0.0,neutral,High
+8,feature request add dark mode,2025-07-03 10:00:00,Feature,-0.15,negative,High
+9,app freezing on startup,2025-07-03 11:45:00,Software,0.0,neutral,Low
+10,payment not processed,2025-07-04 13:00:00,Billing,0.0,neutral,Low
+11,critical error in checkout,2025-07-04 15:30:00,Software,0.0,neutral,High
+12,need assistance with setup,2025-07-05 09:30:00,Account,0.0,neutral,Medium
+13,server timeout urgent,2025-07-05 11:00:00,Server,0.0,neutral,High
+14,login page not loading,2025-07-06 10:15:00,Account,0.0,neutral,Low
+15,app crashed during update,2025-07-06 12:45:00,Software,0.0,neutral,High
+16,billing query overcharged,2025-07-07 08:00:00,Billing,0.0,neutral,Medium
+17,vpn connection failed,2025-07-07 09:20:00,Network,-0.5,negative,High
+18,urgent data loss issue,2025-07-08 10:30:00,Database,0.0,neutral,High
+19,feature not working as expected,2025-07-08 14:00:00,Software,-0.1,negative,High
+20,help with account recovery,2025-07-09 11:10:00,Account,0.0,neutral,Medium
+21,server maintenance required,2025-07-09 13:45:00,Server,0.0,neutral,Low
+22,software update failed,2025-07-09 15:20:00,Software,-0.5,negative,High
+23,incorrect billing amount,2025-07-10 09:00:00,Billing,0.0,neutral,Low
+24,feature request export data option,2025-07-10 10:30:00,Feature,0.0,neutral,Low
+25,database query running slow,2025-07-10 12:15:00,Database,-0.30000000000000004,negative,High
+26,unable to access account,2025-07-11 08:50:00,Account,-0.5,negative,High
+27,app crashes on specific page,2025-07-11 11:00:00,Software,0.0,neutral,High
+28,network latency issue,2025-07-11 14:10:00,Network,0.0,neutral,Medium
+29,payment gateway error,2025-07-12 09:25:00,Billing,0.0,neutral,High
+30,server reboot needed,2025-07-12 12:40:00,Server,0.0,neutral,Low
+31,login credentials not working,2025-07-12 15:00:00,Account,0.0,neutral,High
+32,software bug incorrect data display,2025-07-13 10:00:00,Software,0.0,neutral,Low
+33,feature request multiuser support,2025-07-13 11:30:00,Feature,0.0,neutral,Low
+34,database backup failed,2025-07-13 13:45:00,Database,-0.5,negative,High
+35,billing dispute refund request,2025-07-14 08:20:00,Billing,0.0,neutral,Low
+36,app not syncing with server,2025-07-14 10:50:00,Software,0.0,neutral,Low
+37,network connection unstable,2025-07-14 12:00:00,Network,0.0,neutral,Low
+38,account verification issue,2025-07-15 09:15:00,Account,0.0,neutral,Medium
+39,server overload slow response,2025-07-15 11:30:00,Server,-0.30000000000000004,negative,High
+40,software error missing files,2025-07-15 14:45:00,Software,-0.2,negative,High
+41,feature request custom notifications,2025-07-16 08:30:00,Feature,0.0,neutral,Low
+42,database access timeout,2025-07-16 10:20:00,Database,0.0,neutral,High
+43,billing issue double charge,2025-07-16 12:10:00,Billing,0.0,neutral,Medium
+44,app crashes during export,2025-07-17 09:40:00,Software,0.0,neutral,High
+45,network firewall blocking access,2025-07-17 11:50:00,Network,0.0,neutral,Low
+46,account locked after failed attempts,2025-07-17 14:00:00,Account,-0.5,negative,High
+47,server maintenance schedule needed,2025-07-18 08:15:00,Server,0.0,neutral,Low
+48,software update caused errors,2025-07-18 10:25:00,Software,0.0,neutral,High
+49,feature request offline mode,2025-07-18 12:30:00,Feature,0.0,neutral,Low
+50,database corruption detected,2025-07-19 09:00:00,Database,0.0,neutral,High
+51,billing query subscription renewal,2025-07-19 11:15:00,Billing,0.0,neutral,Medium
+52,app slow to load,2025-07-19 13:20:00,Software,-0.30000000000000004,negative,High
+53,network outage reported,2025-07-20 08:45:00,Network,0.0,neutral,Low
+54,account email update needed,2025-07-20 10:10:00,Account,0.0,neutral,Low
+55,server crash during peak hours,2025-07-20 12:00:00,Server,0.0,neutral,High
+56,software bug incorrect calculations,2025-07-21 09:30:00,Software,0.0,neutral,Low
+57,feature request api integration,2025-07-21 11:45:00,Feature,0.0,neutral,Low
+58,database migration issue,2025-07-21 14:00:00,Database,0.0,neutral,Medium
+59,billing error wrong plan charged,2025-07-22 08:20:00,Billing,-0.5,negative,High
+60,app not responding to inputs,2025-07-22 10:35:00,Software,0.0,neutral,Low
+61,network security concern,2025-07-22 12:50:00,Network,0.0,neutral,Low
+62,account password reset failed,2025-07-23 09:10:00,Account,-0.5,negative,High
+63,server disk space full,2025-07-23 11:25:00,Server,0.35,positive,Low
+64,software crash on mobile,2025-07-23 13:40:00,Software,0.0,neutral,High
+65,feature request dashboard analytics,2025-07-24 08:30:00,Feature,0.0,neutral,Low
+66,database query error,2025-07-24 10:45:00,Database,0.0,neutral,High
+67,billing issue payment declined,2025-07-24 12:15:00,Billing,0.0,neutral,Medium
+68,app freezing during sync,2025-07-25 09:00:00,Software,0.0,neutral,Low
+69,network connectivity intermittent,2025-07-25 11:20:00,Network,0.0,neutral,Low
+70,account twofactor authentication issue,2025-07-25 13:30:00,Account,0.0,neutral,Medium
+71,software error ui not rendering,2025-07-25 15:45:00,Software,0.0,neutral,High
+72,server response time slow,2025-07-26 08:10:00,Server,-0.30000000000000004,negative,High
+73,billing query invoice not received,2025-07-26 10:25:00,Billing,0.0,neutral,Medium
+74,feature request user profile customization,2025-07-26 12:40:00,Feature,0.0,neutral,Low
+75,database connection refused,2025-07-26 14:55:00,Database,0.0,neutral,Low
+76,account login timeout,2025-07-27 09:20:00,Account,0.0,neutral,High
+77,app crash on specific device,2025-07-27 11:35:00,Software,0.0,neutral,High
+78,network bandwidth issue,2025-07-27 13:50:00,Network,0.0,neutral,Medium
+79,billing dispute unauthorized charge,2025-07-28 08:15:00,Billing,0.0,neutral,Low
+80,server maintenance downtime,2025-07-28 10:30:00,Server,0.0,neutral,High
+81,software bug data not saving,2025-07-28 12:45:00,Software,0.0,neutral,Low
+82,feature request realtime updates,2025-07-29 09:00:00,Feature,0.0,neutral,Low
+83,database performance degraded,2025-07-29 11:15:00,Database,0.0,neutral,Low
+84,account access restricted,2025-07-29 13:30:00,Account,0.0,neutral,Low
+85,app not loading images,2025-07-30 08:20:00,Software,0.0,neutral,Low
+86,network proxy error,2025-07-30 10:35:00,Network,0.0,neutral,High
+87,billing issue plan upgrade failed,2025-07-30 12:50:00,Billing,-0.5,negative,High
+88,server crash during backup,2025-07-31 09:10:00,Server,0.0,neutral,High
+89,software crash on new update,2025-07-31 11:25:00,Software,0.13636363636363635,positive,High
+90,feature request mobile app support,2025-07-31 13:40:00,Feature,0.0,neutral,Low
+91,database index error,2025-08-01 08:00:00,Database,0.0,neutral,High
+92,account verification email not sent,2025-08-01 10:15:00,Account,0.0,neutral,Low
+93,app slow during peak usage,2025-08-01 12:30:00,Software,-0.30000000000000004,negative,High
+94,network connection dropped,2025-08-02 09:45:00,Network,0.0,neutral,Low
+95,billing error incorrect discount,2025-08-02 11:00:00,Billing,0.0,neutral,High
+96,server overload issue,2025-08-02 13:15:00,Server,0.0,neutral,Medium
+97,software bug login loop,2025-08-03 08:20:00,Software,0.0,neutral,Low
+98,feature request bulk data import,2025-08-03 10:35:00,Feature,0.0,neutral,Low
+99,database backup restore failed,2025-08-03 12:50:00,Database,-0.5,negative,High
+100,account password change issue,2025-08-04 09:10:00,Account,0.0,neutral,Medium
+101,app not displaying data,2025-08-04 11:25:00,Software,0.0,neutral,Low
+102,network latency during sync,2025-08-04 13:40:00,Network,0.0,neutral,Low
+103,billing query payment refund,2025-08-05 08:00:00,Billing,0.0,neutral,Medium
+104,server maintenance notification needed,2025-08-05 10:15:00,Server,0.0,neutral,Low
+105,software crash on export,2025-08-05 12:30:00,Software,0.0,neutral,High
+106,feature request custom reports,2025-08-06 09:45:00,Feature,0.0,neutral,Low
+107,database access error,2025-08-06 11:00:00,Database,0.0,neutral,High
+108,account locked unexpectedly,2025-08-06 13:15:00,Account,0.1,positive,Low
+109,app freezing on load,2025-08-07 08:20:00,Software,0.0,neutral,Low
+110,network firewall issue,2025-08-07 10:35:00,Network,0.0,neutral,Medium
+111,billing issue overbilled,2025-08-07 12:50:00,Billing,0.0,neutral,Medium
+112,server disk full alert,2025-08-08 09:10:00,Server,0.35,positive,Low
+113,software bug ui glitch,2025-08-08 11:25:00,Software,0.0,neutral,Low
+114,feature request single signon,2025-08-08 13:40:00,Feature,-0.07142857142857142,negative,High
+115,database query timeout,2025-08-09 08:00:00,Database,0.0,neutral,High
+116,account email not updating,2025-08-09 10:15:00,Account,0.0,neutral,Low
+117,app crash during import,2025-08-09 12:30:00,Software,0.0,neutral,High
+118,network connection unstable,2025-08-10 09:45:00,Network,0.0,neutral,Low
+119,billing dispute wrong charge,2025-08-10 11:00:00,Billing,-0.5,negative,High
+120,server performance issue,2025-08-10 13:15:00,Server,0.0,neutral,Medium
+121,software error data mismatch,2025-08-11 08:20:00,Software,0.0,neutral,High
+122,feature request user permissions,2025-08-11 10:35:00,Feature,0.0,neutral,Low
+123,database connection dropped,2025-08-11 12:50:00,Database,0.0,neutral,Low
+124,account recovery assistance,2025-08-12 09:10:00,Account,0.0,neutral,Medium
+125,app not responding,2025-08-12 11:25:00,Software,0.0,neutral,Low
+126,network outage reported,2025-08-12 13:40:00,Network,0.0,neutral,Low
+127,billing query subscription cancel,2025-08-13 08:00:00,Billing,0.0,neutral,Medium
+128,server reboot required,2025-08-13 10:15:00,Server,0.0,neutral,Low
+129,software crash on startup,2025-08-13 12:30:00,Software,0.0,neutral,High
+130,feature request data export,2025-08-14 09:45:00,Feature,0.0,neutral,Low
+131,database error table missing,2025-08-14 11:00:00,Database,-0.2,negative,High
+132,account login issue,2025-08-14 13:15:00,Account,0.0,neutral,Medium
+133,app slow response time,2025-08-15 08:20:00,Software,-0.30000000000000004,negative,High
+134,network latency issue,2025-08-15 10:35:00,Network,0.0,neutral,Medium
+135,billing issue payment error,2025-08-15 12:50:00,Billing,0.0,neutral,High
+136,server down unexpectedly,2025-08-16 09:10:00,Server,-0.027777777777777776,negative,High
+137,software bug incorrect output,2025-08-16 11:25:00,Software,0.0,neutral,Low
+138,feature request cloud sync,2025-08-16 13:40:00,Feature,0.0,neutral,Low
+139,database migration failure,2025-08-17 08:00:00,Database,-0.31666666666666665,negative,High
+140,account password reset issue,2025-08-17 10:15:00,Account,0.0,neutral,Medium
+141,app crash on specific feature,2025-08-17 12:30:00,Software,0.0,neutral,High
+142,network security alert,2025-08-18 09:45:00,Network,0.0,neutral,Low
+143,billing dispute overcharge,2025-08-18 11:00:00,Billing,0.0,neutral,Low
+144,server maintenance overdue,2025-08-18 13:15:00,Server,0.0,neutral,Low
+145,software error file not found,2025-08-19 08:20:00,Software,0.0,neutral,High
+146,feature request user analytics,2025-08-19 10:35:00,Feature,0.0,neutral,Low
+147,database access denied,2025-08-19 12:50:00,Database,0.0,neutral,High
+148,account verification delay,2025-08-20 09:10:00,Account,0.0,neutral,Low
+149,app not loading correctly,2025-08-20 11:25:00,Software,0.0,neutral,Low
+150,network connection timeout,2025-08-20 13:40:00,Network,0.0,neutral,High
+151,billing issue incorrect plan,2025-08-21 08:00:00,Billing,0.0,neutral,Medium
+152,server crash during update,2025-08-21 10:15:00,Server,0.0,neutral,High
+153,software bug data corruption,2025-08-21 12:30:00,Software,0.0,neutral,High
+154,feature request custom themes,2025-08-22 09:45:00,Feature,0.0,neutral,Low
+155,database query slow,2025-08-22 11:00:00,Database,-0.30000000000000004,negative,High
+156,account login failure,2025-08-22 13:15:00,Account,-0.31666666666666665,negative,High
+157,app freezing on startup,2025-08-23 08:20:00,Software,0.0,neutral,Low
+158,network bandwidth low,2025-08-23 10:35:00,Network,0.0,neutral,Low
+159,billing query refund delay,2025-08-23 12:50:00,Billing,0.0,neutral,Medium
+160,server performance degraded,2025-08-24 09:10:00,Server,0.0,neutral,Low
+161,software crash during sync,2025-08-24 11:25:00,Software,0.0,neutral,High
+162,feature request multilanguage support,2025-08-24 13:40:00,Feature,0.0,neutral,Low
+163,database backup error,2025-08-25 08:00:00,Database,0.0,neutral,High
+164,account email change issue,2025-08-25 10:15:00,Account,0.0,neutral,Medium
+165,app not displaying content,2025-08-25 12:30:00,Software,0.0,neutral,Low
+166,network firewall blocking,2025-08-26 09:45:00,Network,0.0,neutral,Low
+167,billing error double billed,2025-08-26 11:00:00,Billing,0.0,neutral,High
+168,server disk space issue,2025-08-26 13:15:00,Server,0.0,neutral,Medium
+169,software bug ui freeze,2025-08-27 08:20:00,Software,0.0,neutral,Low
+170,feature request data visualization,2025-08-27 10:35:00,Feature,0.0,neutral,Low
+171,database connection error,2025-08-27 12:50:00,Database,0.0,neutral,High
+172,account locked out,2025-08-28 09:10:00,Account,0.0,neutral,Low
+173,app crash on export,2025-08-28 11:25:00,Software,0.0,neutral,High
+174,network latency reported,2025-08-28 13:40:00,Network,0.0,neutral,Low
+175,billing issue payment not processed,2025-08-29 08:00:00,Billing,0.0,neutral,Medium
+176,server reboot failure,2025-08-29 10:15:00,Server,-0.31666666666666665,negative,High
+177,software error data not loading,2025-08-29 12:30:00,Software,0.0,neutral,High
+178,feature request user roles,2025-08-30 09:45:00,Feature,0.0,neutral,Low
+179,database performance issue,2025-08-30 11:00:00,Database,0.0,neutral,Medium
+180,account password issue,2025-08-30 13:15:00,Account,0.0,neutral,Medium
+181,app slow to respond,2025-08-31 08:20:00,Software,-0.30000000000000004,negative,High
+182,network outage detected,2025-08-31 10:35:00,Network,0.0,neutral,Low
+183,billing dispute incorrect charge,2025-08-31 12:50:00,Billing,0.0,neutral,Low
+184,server maintenance required,2025-07-09 14:00:00,Server,0.0,neutral,Low
+185,software crash on login,2025-07-09 16:15:00,Software,0.0,neutral,High
+186,feature request export to csv,2025-07-10 08:30:00,Feature,0.0,neutral,Low
+187,database query failure,2025-07-10 10:45:00,Database,-0.31666666666666665,negative,High
+188,account setup assistance,2025-07-10 13:00:00,Account,0.0,neutral,Medium
+189,app not syncing properly,2025-07-11 09:15:00,Software,0.0,neutral,Low
+190,network connection dropped,2025-07-11 11:30:00,Network,0.0,neutral,Low
+191,billing issue overcharged,2025-07-11 13:45:00,Billing,0.0,neutral,Medium
+192,server timeout issue,2025-07-12 08:00:00,Server,0.0,neutral,High
+193,software bug incorrect display,2025-07-12 10:15:00,Software,0.0,neutral,Low
+194,feature request dark theme,2025-07-12 12:30:00,Feature,-0.15,negative,High
+195,database access issue,2025-07-13 09:45:00,Database,0.0,neutral,Medium
+196,account verification problem,2025-07-13 12:00:00,Account,0.0,neutral,Medium
+197,app crash during update,2025-07-13 14:15:00,Software,0.0,neutral,High
+198,network latency concern,2025-07-14 08:30:00,Network,0.0,neutral,Low
+199,billing query subscription issue,2025-07-14 10:45:00,Billing,0.0,neutral,Medium
+200,server crash reported,2025-07-14 13:00:00,Server,0.0,neutral,High
+201,software error file corruption,2025-07-15 09:15:00,Software,0.0,neutral,High
+202,feature request user dashboard,2025-07-15 11:30:00,Feature,0.0,neutral,Low
+203,database backup issue,2025-07-15 13:45:00,Database,0.0,neutral,Medium
+204,account login error,2025-07-16 08:00:00,Account,0.0,neutral,High
+205,app freezing during sync,2025-07-16 10:15:00,Software,0.0,neutral,Low
+206,network firewall issue,2025-07-16 12:30:00,Network,0.0,neutral,Medium
+207,billing error wrong amount,2025-07-17 08:45:00,Billing,-0.5,negative,High
+208,server disk full,2025-07-17 11:00:00,Server,0.35,positive,Low
+209,software bug data loss,2025-07-17 13:15:00,Software,0.0,neutral,Low
+210,feature request realtime sync,2025-07-18 09:30:00,Feature,0.0,neutral,Low
+211,database connection timeout,2025-07-18 11:45:00,Database,0.0,neutral,High
+212,account password reset error,2025-07-18 14:00:00,Account,0.0,neutral,High
+213,app not loading images,2025-07-19 08:15:00,Software,0.0,neutral,Low
+214,network bandwidth issue,2025-07-19 10:30:00,Network,0.0,neutral,Medium
+215,billing dispute refund request,2025-07-19 12:45:00,Billing,0.0,neutral,Low
+216,server performance slow,2025-07-20 09:00:00,Server,-0.30000000000000004,negative,High
+217,software crash on mobile,2025-07-20 11:15:00,Software,0.0,neutral,High
+218,feature request api access,2025-07-20 13:30:00,Feature,0.0,neutral,Low
+219,database query error,2025-07-21 08:45:00,Database,0.0,neutral,High
+220,account email update issue,2025-07-21 11:00:00,Account,0.0,neutral,Medium
+221,app slow during peak hours,2025-07-21 13:15:00,Software,-0.30000000000000004,negative,High
+222,network outage reported,2025-07-22 09:30:00,Network,0.0,neutral,Low
+223,billing issue payment declined,2025-07-22 11:45:00,Billing,0.0,neutral,Medium
+224,server maintenance needed,2025-07-22 14:00:00,Server,0.0,neutral,Low
+225,software bug ui not rendering,2025-07-23 08:15:00,Software,0.0,neutral,Low
+226,feature request custom alerts,2025-07-23 10:30:00,Feature,0.0,neutral,Low
+227,database access denied,2025-07-23 12:45:00,Database,0.0,neutral,High
+228,account locked after attempts,2025-07-24 09:00:00,Account,0.0,neutral,Low
+229,app crash on specific page,2025-07-24 11:15:00,Software,0.0,neutral,High
+230,network connection unstable,2025-07-24 13:30:00,Network,0.0,neutral,Low
+231,billing query overbilled,2025-07-25 08:45:00,Billing,0.0,neutral,Medium
+232,server crash during backup,2025-07-25 11:00:00,Server,0.0,neutral,High
+233,software error data not saving,2025-07-25 13:15:00,Software,0.0,neutral,High
+234,feature request offline access,2025-07-26 09:30:00,Feature,0.0,neutral,Low
+235,database performance issue,2025-07-26 11:45:00,Database,0.0,neutral,Medium
+236,account verification delay,2025-07-26 14:00:00,Account,0.0,neutral,Low
+237,app not responding to inputs,2025-07-27 08:15:00,Software,0.0,neutral,Low
+238,network security concern,2025-07-27 10:30:00,Network,0.0,neutral,Low
+239,billing error double charge,2025-07-27 12:45:00,Billing,0.0,neutral,High
+240,server disk space full,2025-07-28 09:00:00,Server,0.35,positive,Low
+241,software crash on startup,2025-07-28 11:15:00,Software,0.0,neutral,High
+242,feature request user analytics,2025-07-28 13:30:00,Feature,0.0,neutral,Low
+243,database backup failed,2025-07-29 08:45:00,Database,-0.5,negative,High
+244,account login issue,2025-07-29 11:00:00,Account,0.0,neutral,Medium
+245,app slow to load,2025-07-29 13:15:00,Software,-0.30000000000000004,negative,High
+246,network latency issue,2025-07-30 09:30:00,Network,0.0,neutral,Medium
+247,billing issue incorrect plan,2025-07-30 11:45:00,Billing,0.0,neutral,Medium
+248,server timeout reported,2025-07-30 14:00:00,Server,0.0,neutral,High
+249,software bug incorrect output,2025-07-31 08:15:00,Software,0.0,neutral,Low
+250,feature request multiuser support,2025-07-31 10:30:00,Feature,0.0,neutral,Low
+251,database connection error,2025-07-31 12:45:00,Database,0.0,neutral,High
+252,account password change issue,2025-08-01 09:00:00,Account,0.0,neutral,Medium
+253,app crash during export,2025-08-01 11:15:00,Software,0.0,neutral,High
+254,network firewall blocking,2025-08-01 13:30:00,Network,0.0,neutral,Low
+255,billing dispute overcharge,2025-08-02 08:45:00,Billing,0.0,neutral,Low
+256,server maintenance overdue,2025-08-02 11:00:00,Server,0.0,neutral,Low
+257,software error file not found,2025-08-02 13:15:00,Software,0.0,neutral,High
+258,feature request custom dashboard,2025-08-03 09:30:00,Feature,0.0,neutral,Low
+259,database query timeout,2025-08-03 11:45:00,Database,0.0,neutral,High
+260,account email not updating,2025-08-03 14:00:00,Account,0.0,neutral,Low
+261,app freezing on load,2025-08-04 08:15:00,Software,0.0,neutral,Low
+262,network connection dropped,2025-08-04 10:30:00,Network,0.0,neutral,Low
+263,billing query subscription cancel,2025-08-04 12:45:00,Billing,0.0,neutral,Medium
+264,server performance issue,2025-08-05 09:00:00,Server,0.0,neutral,Medium
+265,software bug data corruption,2025-08-05 11:15:00,Software,0.0,neutral,High
+266,feature request cloud sync,2025-08-05 13:30:00,Feature,0.0,neutral,Low
+267,database migration failure,2025-08-06 08:45:00,Database,-0.31666666666666665,negative,High
+268,account login failure,2025-08-06 11:00:00,Account,-0.31666666666666665,negative,High
+269,app not displaying content,2025-08-06 13:15:00,Software,0.0,neutral,Low
+270,network bandwidth low,2025-08-07 09:30:00,Network,0.0,neutral,Low
+271,billing error wrong amount,2025-08-07 11:45:00,Billing,-0.5,negative,High
+272,server crash during update,2025-08-07 14:00:00,Server,0.0,neutral,High
+273,software crash on mobile,2025-08-08 08:15:00,Software,0.0,neutral,High
+274,feature request user permissions,2025-08-08 10:30:00,Feature,0.0,neutral,Low
+275,database access issue,2025-08-08 12:45:00,Database,0.0,neutral,Medium
+276,account verification problem,2025-08-09 09:00:00,Account,0.0,neutral,Medium
+277,app slow during peak hours,2025-08-09 11:15:00,Software,-0.30000000000000004,negative,High
+278,network outage detected,2025-08-09 13:30:00,Network,0.0,neutral,Low
+279,billing issue payment declined,2025-08-10 08:45:00,Billing,0.0,neutral,Medium
+280,server maintenance needed,2025-08-10 11:00:00,Server,0.0,neutral,Low
+281,software bug ui glitch,2025-08-10 13:15:00,Software,0.0,neutral,Low
+282,feature request realtime updates,2025-08-11 09:30:00,Feature,0.0,neutral,Low
+283,database query error,2025-08-11 11:45:00,Database,0.0,neutral,High
+284,account password reset error,2025-08-11 14:00:00,Account,0.0,neutral,High
+285,app not loading images,2025-08-12 08:15:00,Software,0.0,neutral,Low
+286,network latency concern,2025-08-12 10:30:00,Network,0.0,neutral,Low
+287,billing dispute refund request,2025-08-12 12:45:00,Billing,0.0,neutral,Low
+288,server disk full alert,2025-08-13 09:00:00,Server,0.35,positive,Low
+289,software crash during sync,2025-08-13 11:15:00,Software,0.0,neutral,High
+290,feature request mobile app support,2025-08-13 13:30:00,Feature,0.0,neutral,Low
+291,database connection refused,2025-08-14 08:45:00,Database,0.0,neutral,Low
+292,account email update issue,2025-08-14 11:00:00,Account,0.0,neutral,Medium
+293,app crash on specific feature,2025-08-14 13:15:00,Software,0.0,neutral,High
+294,network security alert,2025-08-15 09:30:00,Network,0.0,neutral,Low
+295,billing error double charge,2025-08-15 11:45:00,Billing,0.0,neutral,High
+296,server performance slow,2025-08-15 14:00:00,Server,-0.30000000000000004,negative,High
+297,software error data not saving,2025-08-16 08:15:00,Software,0.0,neutral,High
+298,feature request custom reports,2025-08-16 10:30:00,Feature,0.0,neutral,Low
+299,database backup issue,2025-08-16 12:45:00,Database,0.0,neutral,Medium
+300,account locked unexpectedly,2025-08-17 09:00:00,Account,0.1,positive,Low
+301,app freezing on startup,2025-08-17 11:15:00,Software,0.0,neutral,Low
+302,network connection unstable,2025-08-17 13:30:00,Network,0.0,neutral,Low
+303,billing query overbilled,2025-08-18 08:45:00,Billing,0.0,neutral,Medium
+304,server reboot required,2025-08-18 11:00:00,Server,0.0,neutral,Low
+305,software bug incorrect display,2025-08-18 13:15:00,Software,0.0,neutral,Low
+306,feature request user dashboard,2025-08-19 09:30:00,Feature,0.0,neutral,Low
+307,database query failure,2025-08-19 11:45:00,Database,-0.31666666666666665,negative,High
+308,account login error,2025-08-19 14:00:00,Account,0.0,neutral,High
+309,app not syncing properly,2025-08-20 08:15:00,Software,0.0,neutral,Low
+310,network firewall blocking,2025-08-20 10:30:00,Network,0.0,neutral,Low
+311,billing issue incorrect plan,2025-08-20 12:45:00,Billing,0.0,neutral,Medium
+312,server timeout issue,2025-08-21 09:00:00,Server,0.0,neutral,High
+313,software crash on login,2025-08-21 11:15:00,Software,0.0,neutral,High
+314,feature request export to csv,2025-08-21 13:30:00,Feature,0.0,neutral,Low
+315,database access issue,2025-08-22 08:45:00,Database,0.0,neutral,Medium
+316,account verification problem,2025-08-22 11:00:00,Account,0.0,neutral,Medium
+317,app slow to respond,2025-08-22 13:15:00,Software,-0.30000000000000004,negative,High
+318,network latency issue,2025-08-23 09:30:00,Network,0.0,neutral,Medium
+319,billing dispute overcharge,2025-08-23 11:45:00,Billing,0.0,neutral,Low
+320,server crash reported,2025-08-23 14:00:00,Server,0.0,neutral,High
+321,software error file corruption,2025-08-24 08:15:00,Software,0.0,neutral,High
+322,feature request custom alerts,2025-08-24 10:30:00,Feature,0.0,neutral,Low
+323,database connection timeout,2025-08-24 12:45:00,Database,0.0,neutral,High
+324,account password reset issue,2025-08-25 09:00:00,Account,0.0,neutral,Medium
+325,app not loading correctly,2025-08-25 11:15:00,Software,0.0,neutral,Low
+326,network bandwidth low,2025-08-25 13:30:00,Network,0.0,neutral,Low
+327,billing error payment declined,2025-08-26 08:45:00,Billing,0.0,neutral,High
+328,server maintenance needed,2025-08-26 11:00:00,Server,0.0,neutral,Low
+329,software bug data loss,2025-08-26 13:15:00,Software,0.0,neutral,Low
+330,feature request realtime sync,2025-08-27 09:30:00,Feature,0.0,neutral,Low
+331,database query error,2025-08-27 11:45:00,Database,0.0,neutral,High
+332,account email update issue,2025-08-27 14:00:00,Account,0.0,neutral,Medium
+333,app crash during import,2025-08-28 08:15:00,Software,0.0,neutral,High
+334,network outage reported,2025-08-28 10:30:00,Network,0.0,neutral,Low
+335,billing query subscription cancel,2025-08-28 12:45:00,Billing,0.0,neutral,Medium
+336,server disk full alert,2025-08-29 09:00:00,Server,0.35,positive,Low
+337,software crash on mobile,2025-08-29 11:15:00,Software,0.0,neutral,High
+338,feature request user analytics,2025-08-29 13:30:00,Feature,0.0,neutral,Low
+339,database backup failed,2025-08-30 08:45:00,Database,-0.5,negative,High
+340,account locked after attempts,2025-08-30 11:00:00,Account,0.0,neutral,Low
+341,app not displaying content,2025-08-30 13:15:00,Software,0.0,neutral,Low
+342,network security concern,2025-08-31 09:30:00,Network,0.0,neutral,Low
+343,billing issue double charge,2025-08-31 11:45:00,Billing,0.0,neutral,Medium
+344,server performance slow,2025-07-09 14:00:00,Server,-0.30000000000000004,negative,High
+345,software error ui not rendering,2025-07-09 16:15:00,Software,0.0,neutral,High
+346,feature request custom dashboard,2025-07-10 08:30:00,Feature,0.0,neutral,Low
+347,database access denied,2025-07-10 10:45:00,Database,0.0,neutral,High
+348,account login failure,2025-07-10 13:00:00,Account,-0.31666666666666665,negative,High
+349,app freezing on load,2025-07-11 09:15:00,Software,0.0,neutral,Low
+350,network connection dropped,2025-07-11 11:30:00,Network,0.0,neutral,Low
+351,billing dispute refund request,2025-07-11 13:45:00,Billing,0.0,neutral,Low
+352,server reboot failure,2025-07-12 08:00:00,Server,-0.31666666666666665,negative,High
+353,software bug incorrect output,2025-07-12 10:15:00,Software,0.0,neutral,Low
+354,feature request multiuser support,2025-07-12 12:30:00,Feature,0.0,neutral,Low
+355,database query timeout,2025-07-13 09:45:00,Database,0.0,neutral,High
+356,account email not updating,2025-07-13 12:00:00,Account,0.0,neutral,Low
+357,app crash on specific page,2025-07-13 14:15:00,Software,0.0,neutral,High
+358,network latency concern,2025-07-14 08:30:00,Network,0.0,neutral,Low
+359,billing error wrong amount,2025-07-14 10:45:00,Billing,-0.5,negative,High
+360,server crash during backup,2025-07-14 13:00:00,Server,0.0,neutral,High
+361,software crash during sync,2025-07-15 09:15:00,Software,0.0,neutral,High
+362,feature request offline access,2025-07-15 11:30:00,Feature,0.0,neutral,Low
+363,database connection error,2025-07-15 13:45:00,Database,0.0,neutral,High
+364,account password change issue,2025-07-16 08:00:00,Account,0.0,neutral,Medium
+365,app not responding to inputs,2025-07-16 10:15:00,Software,0.0,neutral,Low
+366,network firewall blocking,2025-07-16 12:30:00,Network,0.0,neutral,Low
+367,billing issue overbilled,2025-07-17 08:45:00,Billing,0.0,neutral,Medium
+368,server maintenance overdue,2025-07-17 11:00:00,Server,0.0,neutral,Low
+369,software error data not saving,2025-07-17 13:15:00,Software,0.0,neutral,High
+370,feature request user roles,2025-07-18 09:30:00,Feature,0.0,neutral,Low
+371,database backup issue,2025-07-18 11:45:00,Database,0.0,neutral,Medium
+372,account verification delay,2025-07-18 14:00:00,Account,0.0,neutral,Low
+373,app slow to load,2025-07-19 08:15:00,Software,-0.30000000000000004,negative,High
+374,network bandwidth low,2025-07-19 10:30:00,Network,0.0,neutral,Low
+375,billing query subscription issue,2025-07-19 12:45:00,Billing,0.0,neutral,Medium
+376,server timeout issue,2025-07-20 09:00:00,Server,0.0,neutral,High
+377,software bug ui glitch,2025-07-20 11:15:00,Software,0.0,neutral,Low
+378,feature request realtime updates,2025-07-20 13:30:00,Feature,0.0,neutral,Low
+379,database query error,2025-07-21 08:45:00,Database,0.0,neutral,High
+380,account login error,2025-07-21 11:00:00,Account,0.0,neutral,High
+381,app not loading images,2025-07-21 13:15:00,Software,0.0,neutral,Low
+382,network outage reported,2025-07-22 09:30:00,Network,0.0,neutral,Low
+383,billing error payment declined,2025-07-22 11:45:00,Billing,0.0,neutral,High
+384,server performance degraded,2025-07-22 14:00:00,Server,0.0,neutral,Low
+385,software crash on startup,2025-07-23 08:15:00,Software,0.0,neutral,High
+386,feature request custom reports,2025-07-23 10:30:00,Feature,0.0,neutral,Low
+387,database access issue,2025-07-23 12:45:00,Database,0.0,neutral,Medium
+388,account email update issue,2025-07-24 09:00:00,Account,0.0,neutral,Medium
+389,app crash during export,2025-07-24 11:15:00,Software,0.0,neutral,High
+390,network security concern,2025-07-24 13:30:00,Network,0.0,neutral,Low
+391,billing dispute double charge,2025-07-25 08:45:00,Billing,0.0,neutral,Low
+392,server disk full alert,2025-07-25 11:00:00,Server,0.35,positive,Low
+393,software error file corruption,2025-07-25 13:15:00,Software,0.0,neutral,High
+394,feature request user analytics,2025-07-26 09:30:00,Feature,0.0,neutral,Low
+395,database connection timeout,2025-07-26 11:45:00,Database,0.0,neutral,High
+396,account locked after attempts,2025-07-26 14:00:00,Account,0.0,neutral,Low
+397,app freezing on load,2025-07-27 08:15:00,Software,0.0,neutral,Low
+398,network latency issue,2025-07-27 10:30:00,Network,0.0,neutral,Medium
+399,billing issue incorrect plan,2025-07-27 12:45:00,Billing,0.0,neutral,Medium
+400,server crash during update,2025-07-28 09:00:00,Server,0.0,neutral,High
+401,software bug data loss,2025-07-28 11:15:00,Software,0.0,neutral,Low
+402,feature request custom dashboard,2025-07-28 13:30:00,Feature,0.0,neutral,Low
+403,database query failure,2025-07-29 08:45:00,Database,-0.31666666666666665,negative,High
+404,account login failure,2025-07-29 11:00:00,Account,-0.31666666666666665,negative,High
+405,app not displaying content,2025-07-29 13:15:00,Software,0.0,neutral,Low
+406,network firewall blocking,2025-07-30 09:30:00,Network,0.0,neutral,Low
+407,billing query overbilled,2025-07-30 11:45:00,Billing,0.0,neutral,Medium
+408,server maintenance needed,2025-07-30 14:00:00,Server,0.0,neutral,Low
+409,software crash on mobile,2025-07-31 08:15:00,Software,0.0,neutral,High
+410,feature request export to csv,2025-07-31 10:30:00,Feature,0.0,neutral,Low
+411,database access denied,2025-07-31 12:45:00,Database,0.0,neutral,High
+412,account verification problem,2025-08-01 09:00:00,Account,0.0,neutral,Medium
+413,app slow during peak hours,2025-08-01 11:15:00,Software,-0.30000000000000004,negative,High
+414,network connection dropped,2025-08-01 13:30:00,Network,0.0,neutral,Low
+415,billing error double charge,2025-08-02 08:45:00,Billing,0.0,neutral,High
+416,server timeout issue,2025-08-02 11:00:00,Server,0.0,neutral,High
+417,software error ui not rendering,2025-08-02 13:15:00,Software,0.0,neutral,High
+418,feature request realtime sync,2025-08-03 09:30:00,Feature,0.0,neutral,Low
+419,database connection error,2025-08-03 11:45:00,Database,0.0,neutral,High
+420,account password reset issue,2025-08-03 14:00:00,Account,0.0,neutral,Medium
+421,app crash on specific feature,2025-08-04 08:15:00,Software,0.0,neutral,High
+422,network bandwidth low,2025-08-04 10:30:00,Network,0.0,neutral,Low
+423,billing dispute refund request,2025-08-04 12:45:00,Billing,0.0,neutral,Low
+424,server performance slow,2025-08-05 09:00:00,Server,-0.30000000000000004,negative,High
+425,software bug incorrect output,2025-08-05 11:15:00,Software,0.0,neutral,Low
+426,feature request user roles,2025-08-05 13:30:00,Feature,0.0,neutral,Low
+427,database backup issue,2025-08-06 08:45:00,Database,0.0,neutral,Medium
+428,account email update issue,2025-08-06 11:00:00,Account,0.0,neutral,Medium
+429,app not responding to inputs,2025-08-06 13:15:00,Software,0.0,neutral,Low
+430,network security concern,2025-08-07 09:30:00,Network,0.0,neutral,Low
+431,billing issue payment declined,2025-08-07 11:45:00,Billing,0.0,neutral,Medium
+432,server disk full alert,2025-08-07 14:00:00,Server,0.35,positive,Low
+433,software crash during sync,2025-08-08 08:15:00,Software,0.0,neutral,High
+434,feature request custom alerts,2025-08-08 10:30:00,Feature,0.0,neutral,Low
+435,database query timeout,2025-08-08 12:45:00,Database,0.0,neutral,High
+436,account locked unexpectedly,2025-08-09 09:00:00,Account,0.1,positive,Low
+437,app freezing on startup,2025-08-09 11:15:00,Software,0.0,neutral,Low
+438,network latency issue,2025-08-09 13:30:00,Network,0.0,neutral,Medium
+439,billing query subscription cancel,2025-08-10 08:45:00,Billing,0.0,neutral,Medium
+440,server maintenance overdue,2025-08-10 11:00:00,Server,0.0,neutral,Low
+441,software error data not saving,2025-08-10 13:15:00,Software,0.0,neutral,High
+442,feature request user analytics,2025-08-11 09:30:00,Feature,0.0,neutral,Low
+443,database connection refused,2025-08-11 11:45:00,Database,0.0,neutral,Low
+444,account login error,2025-08-11 14:00:00,Account,0.0,neutral,High
+445,app not loading images,2025-08-12 08:15:00,Software,0.0,neutral,Low
+446,network firewall blocking,2025-08-12 10:30:00,Network,0.0,neutral,Low
+447,billing error wrong amount,2025-08-12 12:45:00,Billing,-0.5,negative,High
+448,server crash during backup,2025-08-13 09:00:00,Server,0.0,neutral,High
+449,software bug ui glitch,2025-08-13 11:15:00,Software,0.0,neutral,Low
+450,feature request mobile app support,2025-08-13 13:30:00,Feature,0.0,neutral,Low
+451,database query error,2025-08-14 08:45:00,Database,0.0,neutral,High
+452,account verification delay,2025-08-14 11:00:00,Account,0.0,neutral,Low
+453,app crash during export,2025-08-14 13:15:00,Software,0.0,neutral,High
+454,network connection unstable,2025-08-15 09:30:00,Network,0.0,neutral,Low
+455,billing dispute overcharge,2025-08-15 11:45:00,Billing,0.0,neutral,Low
+456,server performance degraded,2025-08-15 14:00:00,Server,0.0,neutral,Low
+457,software crash on mobile,2025-08-16 08:15:00,Software,0.0,neutral,High
+458,feature request custom dashboard,2025-08-16 10:30:00,Feature,0.0,neutral,Low
+459,database access issue,2025-08-16 12:45:00,Database,0.0,neutral,Medium
+460,account email update issue,2025-08-17 09:00:00,Account,0.0,neutral,Medium
+461,app slow to respond,2025-08-17 11:15:00,Software,-0.30000000000000004,negative,High
+462,network bandwidth low,2025-08-17 13:30:00,Network,0.0,neutral,Low
+463,billing issue incorrect plan,2025-08-18 08:45:00,Billing,0.0,neutral,Medium
+464,server timeout issue,2025-08-18 11:00:00,Server,0.0,neutral,High
+465,software error file corruption,2025-08-18 13:15:00,Software,0.0,neutral,High
+466,feature request realtime updates,2025-08-19 09:30:00,Feature,0.0,neutral,Low
+467,database connection timeout,2025-08-19 11:45:00,Database,0.0,neutral,High
+468,account password reset issue,2025-08-19 14:00:00,Account,0.0,neutral,Medium
+469,app not displaying content,2025-08-20 08:15:00,Software,0.0,neutral,Low
+470,network security concern,2025-08-20 10:30:00,Network,0.0,neutral,Low
+471,billing query overbilled,2025-08-20 12:45:00,Billing,0.0,neutral,Medium
+472,server disk full alert,2025-08-21 09:00:00,Server,0.35,positive,Low
+473,software bug data loss,2025-08-21 11:15:00,Software,0.0,neutral,Low
+474,feature request user roles,2025-08-21 13:30:00,Feature,0.0,neutral,Low
+475,database query failure,2025-08-22 08:45:00,Database,-0.31666666666666665,negative,High
+476,account login failure,2025-08-22 11:00:00,Account,-0.31666666666666665,negative,High
+477,app crash on specific feature,2025-08-22 13:15:00,Software,0.0,neutral,High
+478,network latency issue,2025-08-23 09:30:00,Network,0.0,neutral,Medium
+479,billing error double charge,2025-08-23 11:45:00,Billing,0.0,neutral,High
+480,server maintenance needed,2025-08-23 14:00:00,Server,0.0,neutral,Low
+481,software crash during sync,2025-08-24 08:15:00,Software,0.0,neutral,High
+482,feature request export to csv,2025-08-24 10:30:00,Feature,0.0,neutral,Low
+483,database access denied,2025-08-24 12:45:00,Database,0.0,neutral,High
+484,account verification problem,2025-08-25 09:00:00,Account,0.0,neutral,Medium
+485,app freezing on load,2025-08-25 11:15:00,Software,0.0,neutral,Low
+486,network connection dropped,2025-08-25 13:30:00,Network,0.0,neutral,Low
+487,billing dispute refund request,2025-08-26 08:45:00,Billing,0.0,neutral,Low
+488,server performance slow,2025-08-26 11:00:00,Server,-0.30000000000000004,negative,High
+489,software error ui not rendering,2025-08-26 13:15:00,Software,0.0,neutral,High
+490,feature request custom alerts,2025-08-27 09:30:00,Feature,0.0,neutral,Low
+491,database connection error,2025-08-27 11:45:00,Database,0.0,neutral,High
+492,account email update issue,2025-08-27 14:00:00,Account,0.0,neutral,Medium
+493,app not loading images,2025-08-28 08:15:00,Software,0.0,neutral,Low
+494,network firewall blocking,2025-08-28 10:30:00,Network,0.0,neutral,Low
+495,billing issue payment declined,2025-08-28 12:45:00,Billing,0.0,neutral,Medium
+496,server crash during update,2025-08-29 09:00:00,Server,0.0,neutral,High
+497,software bug incorrect output,2025-08-29 11:15:00,Software,0.0,neutral,Low
+498,feature request user analytics,2025-08-29 13:30:00,Feature,0.0,neutral,Low
+499,database query timeout,2025-08-30 08:45:00,Database,0.0,neutral,High
+500,account locked after attempts,2025-08-30 11:00:00,Account,0.0,neutral,Low
+501,app crash during export,2025-08-30 13:15:00,Software,0.0,neutral,High
+502,network bandwidth low,2025-08-31 09:30:00,Network,0.0,neutral,Low
+503,billing query subscription cancel,2025-08-31 11:45:00,Billing,0.0,neutral,Medium
+504,server maintenance overdue,2025-07-09 14:00:00,Server,0.0,neutral,Low
+505,software error data not saving,2025-07-09 16:15:00,Software,0.0,neutral,High
+506,feature request custom dashboard,2025-07-10 08:30:00,Feature,0.0,neutral,Low
+507,database backup issue,2025-07-10 10:45:00,Database,0.0,neutral,Medium
+508,account login error,2025-07-10 13:00:00,Account,0.0,neutral,High
+509,app not responding to inputs,2025-07-11 09:15:00,Software,0.0,neutral,Low
+510,network security concern,2025-07-11 11:30:00,Network,0.0,neutral,Low
+511,billing error double charge,2025-07-11 13:45:00,Billing,0.0,neutral,High
+512,server disk full alert,2025-07-12 08:00:00,Server,0.35,positive,Low
+513,software crash on mobile,2025-07-12 10:15:00,Software,0.0,neutral,High
+514,feature request realtime sync,2025-07-12 12:30:00,Feature,0.0,neutral,Low
+515,database connection refused,2025-07-13 09:45:00,Database,0.0,neutral,Low
+516,account verification delay,2025-07-13 12:00:00,Account,0.0,neutral,Low
+517,app slow to load,2025-07-13 14:15:00,Software,-0.30000000000000004,negative,High
+518,network latency issue,2025-07-14 08:30:00,Network,0.0,neutral,Medium
+519,billing dispute overcharge,2025-07-14 10:45:00,Billing,0.0,neutral,Low
+520,server performance degraded,2025-07-14 13:00:00,Server,0.0,neutral,Low
+521,software bug ui glitch,2025-07-15 09:15:00,Software,0.0,neutral,Low
+522,feature request user roles,2025-07-15 11:30:00,Feature,0.0,neutral,Low
+523,database query error,2025-07-15 13:45:00,Database,0.0,neutral,High
+524,account password reset issue,2025-07-16 08:00:00,Account,0.0,neutral,Medium
+525,app crash during sync,2025-07-16 10:15:00,Software,0.0,neutral,High
+526,network connection unstable,2025-07-16 12:30:00,Network,0.0,neutral,Low
+527,billing issue incorrect plan,2025-07-17 08:45:00,Billing,0.0,neutral,Medium
+528,server timeout issue,2025-07-17 11:00:00,Server,0.0,neutral,High
+529,software error file corruption,2025-07-17 13:15:00,Software,0.0,neutral,High
+530,feature request export to csv,2025-07-18 09:30:00,Feature,0.0,neutral,Low
+531,database access issue,2025-07-18 11:45:00,Database,0.0,neutral,Medium
+532,account email update issue,2025-07-18 14:00:00,Account,0.0,neutral,Medium
+533,app not displaying content,2025-07-19 08:15:00,Software,0.0,neutral,Low
+534,network firewall blocking,2025-07-19 10:30:00,Network,0.0,neutral,Low
+535,billing query overbilled,2025-07-19 12:45:00,Billing,0.0,neutral,Medium
+536,server crash during backup,2025-07-20 09:00:00,Server,0.0,neutral,High
+537,software bug data loss,2025-07-20 11:15:00,Software,0.0,neutral,Low
+538,feature request custom reports,2025-07-20 13:30:00,Feature,0.0,neutral,Low
+539,database connection timeout,2025-07-21 08:45:00,Database,0.0,neutral,High
+540,account login failure,2025-07-21 11:00:00,Account,-0.31666666666666665,negative,High
+541,app freezing on load,2025-07-21 13:15:00,Software,0.0,neutral,Low
+542,network bandwidth low,2025-07-22 09:30:00,Network,0.0,neutral,Low
+543,billing error payment declined,2025-07-22 11:45:00,Billing,0.0,neutral,High
+544,server maintenance needed,2025-07-22 14:00:00,Server,0.0,neutral,Low
+545,software crash on startup,2025-07-23 08:15:00,Software,0.0,neutral,High
+546,feature request user analytics,2025-07-23 10:30:00,Feature,0.0,neutral,Low
+547,database query failure,2025-07-23 12:45:00,Database,-0.31666666666666665,negative,High
+548,account verification problem,2025-07-24 09:00:00,Account,0.0,neutral,Medium
+549,app not loading images,2025-07-24 11:15:00,Software,0.0,neutral,Low
+550,network security concern,2025-07-24 13:30:00,Network,0.0,neutral,Low
+551,billing dispute double charge,2025-07-25 08:45:00,Billing,0.0,neutral,Low
+552,server performance slow,2025-07-25 11:00:00,Server,-0.30000000000000004,negative,High
+553,software error ui not rendering,2025-07-25 13:15:00,Software,0.0,neutral,High
+554,feature request custom dashboard,2025-07-26 09:30:00,Feature,0.0,neutral,Low
+555,database access denied,2025-07-26 11:45:00,Database,0.0,neutral,High
+556,account email update issue,2025-07-26 14:00:00,Account,0.0,neutral,Medium
+557,app crash during export,2025-07-27 08:15:00,Software,0.0,neutral,High
+558,network latency issue,2025-07-27 10:30:00,Network,0.0,neutral,Medium
+559,billing issue incorrect plan,2025-07-27 12:45:00,Billing,0.0,neutral,Medium
+560,server timeout issue,2025-07-28 09:00:00,Server,0.0,neutral,High
+561,software bug incorrect output,2025-07-28 11:15:00,Software,0.0,neutral,Low
+562,feature request realtime sync,2025-07-28 13:30:00,Feature,0.0,neutral,Low
+563,database connection error,2025-07-29 08:45:00,Database,0.0,neutral,High
+564,account password reset issue,2025-07-29 11:00:00,Account,0.0,neutral,Medium
+565,app not responding to inputs,2025-07-29 13:15:00,Software,0.0,neutral,Low
+566,network firewall blocking,2025-07-30 09:30:00,Network,0.0,neutral,Low
+567,billing query overbilled,2025-07-30 11:45:00,Billing,0.0,neutral,Medium
+568,server disk full alert,2025-07-30 14:00:00,Server,0.35,positive,Low
+569,software crash during sync,2025-07-31 08:15:00,Software,0.0,neutral,High
+570,feature request user roles,2025-07-31 10:30:00,Feature,0.0,neutral,Low
+571,database query timeout,2025-07-31 12:45:00,Database,0.0,neutral,High
+572,account login error,2025-08-01 09:00:00,Account,0.0,neutral,High
+573,app freezing on startup,2025-08-01 11:15:00,Software,0.0,neutral,Low
+574,network connection unstable,2025-08-01 13:30:00,Network,0.0,neutral,Low
+575,billing error double charge,2025-08-02 08:45:00,Billing,0.0,neutral,High
+576,server maintenance overdue,2025-08-02 11:00:00,Server,0.0,neutral,Low
+577,software error data not saving,2025-08-02 13:15:00,Software,0.0,neutral,High
+578,feature request custom alerts,2025-08-03 09:30:00,Feature,0.0,neutral,Low
+579,database backup issue,2025-08-03 11:45:00,Database,0.0,neutral,Medium
+580,account verification delay,2025-08-03 14:00:00,Account,0.0,neutral,Low
+581,app not displaying content,2025-08-04 08:15:00,Software,0.0,neutral,Low
+582,network security concern,2025-08-04 10:30:00,Network,0.0,neutral,Low
+583,billing dispute refund request,2025-08-04 12:45:00,Billing,0.0,neutral,Low
+584,server performance slow,2025-08-05 09:00:00,Server,-0.30000000000000004,negative,High
+585,software bug ui glitch,2025-08-05 11:15:00,Software,0.0,neutral,Low
+586,feature request user analytics,2025-08-05 13:30:00,Feature,0.0,neutral,Low
+587,database connection refused,2025-08-06 08:45:00,Database,0.0,neutral,Low
+588,account email update issue,2025-08-06 11:00:00,Account,0.0,neutral,Medium
+589,app crash on specific feature,2025-08-06 13:15:00,Software,0.0,neutral,High
+590,network latency issue,2025-08-07 09:30:00,Network,0.0,neutral,Medium
+591,billing issue payment declined,2025-08-07 11:45:00,Billing,0.0,neutral,Medium
+592,server timeout issue,2025-08-07 14:00:00,Server,0.0,neutral,High
+593,software error file corruption,2025-08-08 08:15:00,Software,0.0,neutral,High
+594,feature request custom dashboard,2025-08-08 10:30:00,Feature,0.0,neutral,Low
+595,database query error,2025-08-08 12:45:00,Database,0.0,neutral,High
+596,account login failure,2025-08-09 09:00:00,Account,-0.31666666666666665,negative,High
+597,app not loading images,2025-08-09 11:15:00,Software,0.0,neutral,Low
+598,network bandwidth low,2025-08-09 13:30:00,Network,0.0,neutral,Low
+599,billing query overbilled,2025-08-10 08:45:00,Billing,0.0,neutral,Medium
+600,server crash during backup,2025-08-10 11:00:00,Server,0.0,neutral,High
+601,software crash on mobile,2025-08-10 13:15:00,Software,0.0,neutral,High
+602,feature request realtime sync,2025-08-11 09:30:00,Feature,0.0,neutral,Low
+603,database access issue,2025-08-11 11:45:00,Database,0.0,neutral,Medium
+604,account verification problem,2025-08-11 14:00:00,Account,0.0,neutral,Medium
+605,app slow to respond,2025-08-12 08:15:00,Software,-0.30000000000000004,negative,High
+606,network connection dropped,2025-08-12 10:30:00,Network,0.0,neutral,Low
+607,billing error double charge,2025-08-12 12:45:00,Billing,0.0,neutral,High
+608,server maintenance needed,2025-08-13 09:00:00,Server,0.0,neutral,Low
+609,software bug data loss,2025-08-13 11:15:00,Software,0.0,neutral,Low
+610,feature request user roles,2025-08-13 13:30:00,Feature,0.0,neutral,Low
+611,database connection timeout,2025-08-14 08:45:00,Database,0.0,neutral,High
+612,account password reset issue,2025-08-14 11:00:00,Account,0.0,neutral,Medium
+613,app freezing on load,2025-08-14 13:15:00,Software,0.0,neutral,Low
+614,network security concern,2025-08-15 09:30:00,Network,0.0,neutral,Low
+615,billing dispute refund request,2025-08-15 11:45:00,Billing,0.0,neutral,Low
+616,server performance slow,2025-08-15 14:00:00,Server,-0.30000000000000004,negative,High
+617,software error ui not rendering,2025-08-16 08:15:00,Software,0.0,neutral,High
+618,feature request custom alerts,2025-08-16 10:30:00,Feature,0.0,neutral,Low
+619,database query failure,2025-08-16 12:45:00,Database,-0.31666666666666665,negative,High
+620,account email update issue,2025-08-17 09:00:00,Account,0.0,neutral,Medium
+621,app crash during export,2025-08-17 11:15:00,Software,0.0,neutral,High
+622,network latency issue,2025-08-17 13:30:00,Network,0.0,neutral,Medium
+623,billing issue incorrect plan,2025-08-18 08:45:00,Billing,0.0,neutral,Medium
+624,server timeout issue,2025-08-18 11:00:00,Server,0.0,neutral,High
+625,software bug incorrect output,2025-08-18 13:15:00,Software,0.0,neutral,Low
+626,feature request user analytics,2025-08-19 09:30:00,Feature,0.0,neutral,Low
+627,database access denied,2025-08-19 11:45:00,Database,0.0,neutral,High
+628,account login error,2025-08-19 14:00:00,Account,0.0,neutral,High
+629,app not displaying content,2025-08-20 08:15:00,Software,0.0,neutral,Low
+630,network firewall blocking,2025-08-20 10:30:00,Network,0.0,neutral,Low
+631,billing query overbilled,2025-08-20 12:45:00,Billing,0.0,neutral,Medium
+632,server disk full alert,2025-08-21 09:00:00,Server,0.35,positive,Low
+633,software crash during sync,2025-08-21 11:15:00,Software,0.0,neutral,High
+634,feature request custom dashboard,2025-08-21 13:30:00,Feature,0.0,neutral,Low
+635,database connection error,2025-08-22 08:45:00,Database,0.0,neutral,High
+636,account verification delay,2025-08-22 11:00:00,Account,0.0,neutral,Low
+637,app slow to load,2025-08-22 13:15:00,Software,-0.30000000000000004,negative,High
+638,network bandwidth low,2025-08-23 09:30:00,Network,0.0,neutral,Low
+639,billing error double charge,2025-08-23 11:45:00,Billing,0.0,neutral,High
+640,server maintenance overdue,2025-08-23 14:00:00,Server,0.0,neutral,Low
+641,software error data not saving,2025-08-24 08:15:00,Software,0.0,neutral,High
+642,feature request realtime sync,2025-08-24 10:30:00,Feature,0.0,neutral,Low
+643,database query timeout,2025-08-24 12:45:00,Database,0.0,neutral,High
+644,account password reset issue,2025-08-25 09:00:00,Account,0.0,neutral,Medium
+645,app freezing on startup,2025-08-25 11:15:00,Software,0.0,neutral,Low
+646,network security concern,2025-08-25 13:30:00,Network,0.0,neutral,Low
+647,billing dispute refund request,2025-08-26 08:45:00,Billing,0.0,neutral,Low
+648,server performance slow,2025-08-26 11:00:00,Server,-0.30000000000000004,negative,High
+649,software bug ui glitch,2025-08-26 13:15:00,Software,0.0,neutral,Low
+650,feature request user roles,2025-08-27 09:30:00,Feature,0.0,neutral,Low
+651,database connection refused,2025-08-27 11:45:00,Database,0.0,neutral,Low
+652,account login failure,2025-08-27 14:00:00,Account,-0.31666666666666665,negative,High
+653,app crash on specific feature,2025-08-28 08:15:00,Software,0.0,neutral,High
+654,network latency issue,2025-08-28 10:30:00,Network,0.0,neutral,Medium
+655,billing issue payment declined,2025-08-28 12:45:00,Billing,0.0,neutral,Medium
+656,server timeout issue,2025-08-29 09:00:00,Server,0.0,neutral,High
+657,software error file corruption,2025-08-29 11:15:00,Software,0.0,neutral,High
+658,feature request custom alerts,2025-08-29 13:30:00,Feature,0.0,neutral,Low
+659,database query error,2025-08-30 08:45:00,Database,0.0,neutral,High
+660,account email update issue,2025-08-30 11:00:00,Account,0.0,neutral,Medium
+661,app not loading images,2025-08-30 13:15:00,Software,0.0,neutral,Low
+662,network connection unstable,2025-08-31 09:30:00,Network,0.0,neutral,Low
+663,billing query overbilled,2025-08-31 11:45:00,Billing,0.0,neutral,Medium
+664,server crash during backup,2025-07-09 14:00:00,Server,0.0,neutral,High
+665,software bug data loss,2025-07-09 16:15:00,Software,0.0,neutral,Low
+666,feature request user analytics,2025-07-10 08:30:00,Feature,0.0,neutral,Low
+667,database access issue,2025-07-10 10:45:00,Database,0.0,neutral,Medium
+668,account verification problem,2025-07-10 13:00:00,Account,0.0,neutral,Medium
+669,app slow to respond,2025-07-11 09:15:00,Software,-0.30000000000000004,negative,High
+670,network firewall blocking,2025-07-11 11:30:00,Network,0.0,neutral,Low
+671,billing error double charge,2025-07-11 13:45:00,Billing,0.0,neutral,High
+672,server maintenance needed,2025-07-12 08:00:00,Server,0.0,neutral,Low
+673,software crash on mobile,2025-07-12 10:15:00,Software,0.0,neutral,High
+674,feature request custom dashboard,2025-07-12 12:30:00,Feature,0.0,neutral,Low
+675,database connection timeout,2025-07-13 09:45:00,Database,0.0,neutral,High
+676,account login error,2025-07-13 12:00:00,Account,0.0,neutral,High
+677,app not displaying content,2025-07-13 14:15:00,Software,0.0,neutral,Low
+678,network security concern,2025-07-14 08:30:00,Network,0.0,neutral,Low
+679,billing dispute refund request,2025-07-14 10:45:00,Billing,0.0,neutral,Low
+680,server performance slow,2025-07-14 13:00:00,Server,-0.30000000000000004,negative,High
+681,software error ui not rendering,2025-07-15 09:15:00,Software,0.0,neutral,High
+682,feature request realtime sync,2025-07-15 11:30:00,Feature,0.0,neutral,Low
+683,database query failure,2025-07-15 13:45:00,Database,-0.31666666666666665,negative,High
+684,account password reset issue,2025-07-16 08:00:00,Account,0.0,neutral,Medium
+685,app crash during export,2025-07-16 10:15:00,Software,0.0,neutral,High
+686,network latency issue,2025-07-16 12:30:00,Network,0.0,neutral,Medium
+687,billing issue incorrect plan,2025-07-17 08:45:00,Billing,0.0,neutral,Medium
+688,server timeout issue,2025-07-17 11:00:00,Server,0.0,neutral,High
+689,software bug incorrect output,2025-07-17 13:15:00,Software,0.0,neutral,Low
+690,feature request user roles,2025-07-18 09:30:00,Feature,0.0,neutral,Low
+691,database access denied,2025-07-18 11:45:00,Database,0.0,neutral,High
+692,account verification delay,2025-07-18 14:00:00,Account,0.0,neutral,Low
+693,app freezing on load,2025-07-19 08:15:00,Software,0.0,neutral,Low
+694,network connection unstable,2025-07-19 10:30:00,Network,0.0,neutral,Low
+695,billing query overbilled,2025-07-19 12:45:00,Billing,0.0,neutral,Medium
+696,server disk full alert,2025-07-20 09:00:00,Server,0.35,positive,Low
+697,software error data not saving,2025-07-20 11:15:00,Software,0.0,neutral,High
+698,feature request custom alerts,2025-07-20 13:30:00,Feature,0.0,neutral,Low
+699,database connection error,2025-07-21 08:45:00,Database,0.0,neutral,High
+700,account login failure,2025-07-21 11:00:00,Account,-0.31666666666666665,negative,High

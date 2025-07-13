@@ -16,21 +16,21 @@ A Streamlit dashboard to prioritize customer support tickets using sentiment ana
 ## Setup
 1. Clone the repository:
 
-```
+```bash
    git clone https://github.com/Keerthi-Vasan-Adhithan/ticket-prioritization-dashboard.git
    cd ticket-prioritization-dashboard
 ```
 
 2. Install dependencies:
 
-```
+```bash
 pip install pandas==2.2.2 textblob==0.18.0.post0 scikit-learn==1.5.1 streamlit==1.39.0 plotly==5.24.1 wordcloud==1.9.3
 
 ```
 
 3. Run the dashboard:
 
-```
+```bash
 streamlit run app.py
 
 ```

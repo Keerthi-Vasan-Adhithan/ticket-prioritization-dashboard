@@ -56,3 +56,11 @@ Add real-time ticket ingestion.
 Enhance sentiment analysis with advanced NLP models.
 Deploy dashboard online (e.g., Streamlit Cloud).
 Built by Keerthi Vasan, 2025.
+
+### Results:
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/1a1e5e34-2dea-496e-9793-1da8ad06e30c" />
+<img width="1005" height="561" alt="image" src="https://github.com/user-attachments/assets/9a1a6f98-ef14-455c-9666-a87d673d8d1a" />
+<img width="998" height="550" alt="image" src="https://github.com/user-attachments/assets/7c82acec-18ee-4322-826f-a6c77e7a20e2" />
+<img width="1077" height="513" alt="image" src="https://github.com/user-attachments/assets/f8945e35-20a1-4177-85a0-c6efbf88a0f9" />
+<img width="924" height="621" alt="image" src="https://github.com/user-attachments/assets/0d9c4d85-d286-4bdd-8f17-a58f72b67f8d" />
+
